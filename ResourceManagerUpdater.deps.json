@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ResourceManagerUpdater/0.4.9": {
+      "ResourceManagerUpdater/0.5.0": {
         "dependencies": {
           "K4os.Hash.xxHash": "1.0.7"
         },
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "ResourceManagerUpdater/0.4.9": {
+    "ResourceManagerUpdater/0.5.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
